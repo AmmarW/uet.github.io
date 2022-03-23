@@ -6,7 +6,7 @@
 - LIBAAS-Interactive shopping is a retail shopping based project, which includes 3D overlaying of clothing models over customers so that they can try on the clothing in virtual world without actually wearing them.
 - Virtual try-on has received much attention recently due to complications during the Covid-19 pandemic. 
 - We present an augmented reality environment for 3D virtual clothes try-on, with size recommendations that enables a user to visualize himself wearing virtual clothes while looking at a mirror display.
-<img src="https://github.com/AmmarW/uet.github.io/blob/gh-pages/docs/assets/images/libaas-demo.png" width=300 align=right>
+- ![Libaas Demo](/docs/assets/images/libaas-demo.png | width=300)
 
 #### Smart Cricket Batting Coach App
 - Cricket coaching is an extensive task and due to physical and monetary constraints, a significant amount of amateur players are left out and thus are incapable of succeeding in their batting careers.
