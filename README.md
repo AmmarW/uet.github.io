@@ -1,7 +1,6 @@
 ## Department of Mechatronics & Control Engineering
 
-### Projects
-Following are the projects recently developed under the supervision of Mr. Misbah ur Rehman and Dr. Ali Raza.
+## **Projects:**
 
 #### Libaas - An Augmented Reality Try-On Environment
 
